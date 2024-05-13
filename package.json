@@ -1,0 +1,32 @@
+{
+  "type": "module",
+  "name": "waspcode",
+  "version": "0.0.1",
+  "description": "WhatsApp Spam Pairing Code (WASPCODE)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"you stupid!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZTRdiamond/waspcode.git"
+  },
+  "keywords": [
+    "waspcode",
+    "spam-pairing",
+    "pairing-code",
+    "whatsapp"
+  ],
+  "author": "ZTRdiamond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZTRdiamond/waspcode/issues"
+  },
+  "homepage": "https://github.com/ZTRdiamond/waspcode#readme",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "baileys": "^6.7.2",
+    "colors": "^1.4.0",
+    "pino": "^9.0.0"
+  }
+}
